@@ -32,7 +32,7 @@ namespace ProjetoWindowsForms
             n1.Clear();
             n2.Clear();
 
-            
+            Resultado.Text = "0";
 
             n1.Focus();
 

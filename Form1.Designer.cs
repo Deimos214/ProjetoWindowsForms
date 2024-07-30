@@ -109,7 +109,7 @@
             this.Resultado.Name = "Resultado";
             this.Resultado.Size = new System.Drawing.Size(118, 36);
             this.Resultado.TabIndex = 7;
-            this.Resultado.Text = "asdfa";
+            this.Resultado.Text = "0";
             // 
             // resultadotxt
             // 
